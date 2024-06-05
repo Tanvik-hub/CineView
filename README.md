@@ -10,7 +10,7 @@ The project “CineView: Discover the World of Cinema”, offers to provide a pl
 - **Benefits:** Keeps users updated with the latest movies, helps movie studios track movie popularity
 
 **Conclusion:**
-CineView is a Java-based project that offers a comprehensive platform for accessing movie details, reviews, and trailers. With its integration of the TMDB API, it provides users with the latest movie information and helps movie studios track the popularity of their films.
+CineView is a Java-based project that offers a comprehensive platform for accessing movie details, reviews, and trailers. With its integration of the TMDB API, it provides users with the latest movie information and helps movie studios track the popularity of their films.it is based on command line interface
 
 
 
